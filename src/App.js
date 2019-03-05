@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <h1>
-        Hello, <Text name = "Kash" color= "green" />
+        Hello, <Text name = "Kash" color= "red" />
         </h1>
     );
   }
